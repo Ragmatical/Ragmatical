@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Juno!
+- 👀 I’m interested in the field of Data Science and I'm currently a high school junior!
+- I’m looking to start initiatives and collaborate on effective, deliverable solutions making use of interesting data.
+- junokimzone@gmail.com
